@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/KBC/Scene/Main menu Scene.unity
+    guid: 092ad25096c9c5e40a8ead04a5420b7a
+  - enabled: 0
+    path: Assets/KBC/Scene/FirstChapterScene.unity
+    guid: ed4b16149ecc21348bf3f76480f5f220
+  - enabled: 1
+    path: Assets/Scenes/nextSc.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/PSJ/Scenes/TestScene_PSJ.unity
+    guid: dd0cbb3179f77bc48a97d27384666ca7
+  - enabled: 0
+    path: Assets/CMS/Scenes/TestScene_CMS.unity
+    guid: 0dec37c562260954bb95430710f45c96
+  - enabled: 1
+    path: Assets/Scenes/nextSc(1).unity
+    guid: 0843d5c04ac45504593d5a8e4e07fde3
+  - enabled: 1
+    path: Assets/KBC/Scene/Video.unity
+    guid: 3b734dff9709feb42ac6e664be06749f
+  - enabled: 1
+    path: Assets/Scenes/nextSc(2).unity
+    guid: 6dcfa92248434474387001ac0250ed3b
+  m_configObjects: {}
